@@ -1,0 +1,16 @@
+<svg width="144" height="144" viewBox="0 0 144 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="f" x="-17%" y="-17%" width="134%" height="134%">
+<feDropShadow dx="0" dy="2" stdDeviation="3.5" flood-color="#000000" flood-opacity="0.13"/>
+</filter>
+</defs>
+<g filter="url(#f)">
+<rect x="12" y="8" width="120" height="120" rx="16" fill="white"/>
+<g transform="translate(72,55)" stroke="#E69F00" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M0,-18 C-14,-18 -14,-8 -14,0 C-14,10 -6,16 0,18 C6,16 14,10 14,0 C14,-8 14,-18 0,-18 Z"/>
+<line x1="-6" y1="-10" x2="6" y2="10" stroke="white" stroke-width="2.5"/>
+<line x1="6" y1="-10" x2="-6" y2="10" stroke="white" stroke-width="2.5"/>
+</g>
+<text x="72" y="113" fill="#E69F00" font-family="Arial Black, Arial, sans-serif" font-size="7.5" font-weight="900" letter-spacing="3.2" text-anchor="middle">WAR</text>
+</g>
+</svg>
