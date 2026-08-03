@@ -1,0 +1,14 @@
+<svg width="144" height="144" viewBox="0 0 144 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="f" x="-17%" y="-17%" width="134%" height="134%">
+<feDropShadow dx="0" dy="2" stdDeviation="3.5" flood-color="#000000" flood-opacity="0.13"/>
+</filter>
+</defs>
+<g filter="url(#f)">
+<rect x="12" y="8" width="120" height="120" rx="16" fill="white"/>
+<g transform="translate(72,55)" stroke="#C0392B" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M4 -18 L-8 4 L0 4 L-8 18 L16 -6 L6 -6 Z" fill="#C0392B" stroke="none"/>
+</g>
+<text x="72" y="113" fill="#C0392B" font-family="Arial Black, Arial, sans-serif" font-size="7.5" font-weight="900" letter-spacing="3.2" text-anchor="middle">ACTION</text>
+</g>
+</svg>
